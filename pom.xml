@@ -2,6 +2,7 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rdkv.generic</groupId>
+	<!--		API Base Name   -->
 	<artifactId>rdkv-mvc</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
@@ -10,7 +11,7 @@
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.2.2.RELEASE</spring.version>
-		<jackson.version>2.9.4</jackson.version>
+		<jackson.version>2.10.2</jackson.version>
 		<spring-data.version>2.2.3.RELEASE</spring-data.version>
 		<jdk.version>1.8</jdk.version>
 		<hibernate-core.version>5.3.10.Final</hibernate-core.version>
@@ -124,7 +125,6 @@
 	</dependencies>
 
 	<build>
-        <!--		API Base Name   -->
 		<finalName>rdkv-mvc</finalName>
 		<plugins>
 			<plugin>
