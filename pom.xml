@@ -23,7 +23,7 @@
 		<jstl.version>1.2</jstl.version>
 		<taglibs-standard.version>1.2.5</taglibs-standard.version>
 		<logback-classic.version>1.2.3</logback-classic.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<dependencies>
