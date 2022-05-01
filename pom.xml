@@ -14,7 +14,7 @@
 		<jackson.version>2.10.2</jackson.version>
 		<spring-data.version>2.2.3.RELEASE</spring-data.version>
 		<jdk.version>1.8</jdk.version>
-		<hibernate-core.version>5.3.10.Final</hibernate-core.version>
+		<hibernate-core.version>5.4.24.Final</hibernate-core.version>
 		<h2.version>2.1.210</h2.version>
 		<mysql-connector-java.version>8.0.18</mysql-connector-java.version>
 		<javax.persistence-api.version>2.2</javax.persistence-api.version>
