@@ -16,7 +16,7 @@
 		<jdk.version>1.8</jdk.version>
 		<hibernate-core.version>5.4.24.Final</hibernate-core.version>
 		<h2.version>2.1.210</h2.version>
-		<mysql-connector-java.version>8.0.18</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.28</mysql-connector-java.version>
 		<javax.persistence-api.version>2.2</javax.persistence-api.version>
 		<javax.servlet-api.version>4.0.1</javax.servlet-api.version>
 		<lombok.version>1.18.10</lombok.version>
