@@ -11,7 +11,7 @@
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.3.19</spring.version>
-		<jackson.version>2.12.6.1</jackson.version>
+		<jackson.version>2.13.4.1</jackson.version>
 		<spring-data.version>2.2.3.RELEASE</spring-data.version>
 		<jdk.version>1.8</jdk.version>
 		<hibernate-core.version>5.4.24.Final</hibernate-core.version>
